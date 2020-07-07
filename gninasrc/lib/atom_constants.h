@@ -24,7 +24,8 @@
 #define VINA_ATOM_CONSTANTS_H
 
 #include "common.h"
-#include <openbabel/atom.h>
+#include "atom.h"
+//#include <openbabel/atom.h>
 #include <openbabel/mol.h>
 #include <openbabel/obiter.h>
 #include <openbabel/babelconfig.h>
